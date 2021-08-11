@@ -197,7 +197,7 @@ background-color: rgb(51, 50, 50); */
 position: relative;
 margin-top: 46px;
 padding: 50%;
-background: url('/assets/img/190083305_211038920744690_3357881487123512003_n.jpg') top center / cover no-repeat;
+background: url('../img/190083305_211038920744690_3357881487123512003_n.jpg') top center / cover no-repeat;
 }
 #slider .text-content{
     position: absolute;
